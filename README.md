@@ -1,4 +1,4 @@
-- 👋 Hi, I’m coboy
+- 👋 Hi, I’m Cobyte
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
